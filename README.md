@@ -16,8 +16,8 @@ This project is a clone of Google's Gemini app, built using React for the fronte
 
 ## Screenshots
 
-![Screenshot 1](assets)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](src/assets/gemini1.png)
+![Screenshot 2](src/assets/gemini2.png)
 
 ## Installation
 
@@ -41,8 +41,6 @@ This project is a clone of Google's Gemini app, built using React for the fronte
     ```bash
     npm install
     npm run dev
-    ```
-
     cd gemini-clone
     ```
 

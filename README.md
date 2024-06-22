@@ -1,8 +1,51 @@
-# React + Vite
+# Gemini Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clone of Google's Gemini app, built using React for the frontend and integrating with the Gemini API.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Technologies Used](#technologies)
+
+## Features
+
+- Real-time data synchronization with the Gemini API
+- Interactive and responsive user interface
+
+## Screenshots
+
+![Screenshot 1](assets)
+![Screenshot 2](screenshots/screenshot2.png)
+
+## Installation
+
+### Prerequisites
+
+- Node.js (>=14.x)
+- npm 
+- Gemini API credentials
+
+### Steps
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/gemini-clone.git
+    cd gemini-clone
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    npm install
+    npm run dev
+    ```
+
+    cd gemini-clone
+    ```
+
+##Technologies Ued
+1. Vite + React
+2. Gemini API
